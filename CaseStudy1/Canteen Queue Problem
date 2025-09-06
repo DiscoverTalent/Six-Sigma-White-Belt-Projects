@@ -1,0 +1,55 @@
+# 📘 Case Study 1 – Canteen Queue Problem  
+
+## Background  
+At the college canteen, students face **long queues during lunchtime**. On average, students wait **15 minutes** to get food. Some even skip meals because of the delay.  
+
+This causes:  
+- Students becoming frustrated  
+- Classes starting late after lunch  
+- Extra stress on canteen staff  
+
+---
+
+## 📝 Your Task (Use DMAIC)  
+
+1. **Define**  
+   - What is the problem in your own words? Who is affected?  
+
+2. **Measure**  
+   - What data would you collect?  
+     (Example: number of students in queue, average wait time, peak hours).  
+
+3. **Analyze**  
+   - Why do you think the queue is so long?  
+     (Give at least 2–3 reasons. Example: only one cashier, slow cash payments, not enough staff).  
+
+4. **Improve**  
+   - Suggest 2–3 solutions to reduce waiting time.  
+     (Example: add a second cashier, allow UPI payments, pre-order system).  
+
+5. **Control**  
+   - How will you ensure the improvement continues?  
+     (Example: monitor queue time daily, review staff performance).  
+
+---
+
+## 📂 Submission Format  
+- File type: **PDF / Word / Excel**  
+- File name format:   YourName_CaseStudy1.pdf
+
+
+---
+
+## 🚀 How to Submit  
+1. Fork this repository (top-right corner → “Fork”).  
+2. Go to this folder:  https://github.com/DiscoverTalent/Six-Sigma-White-Belt-Projects
+
+3. Upload your file → Commit changes → Create a Pull Request.  
+
+---
+
+## 🏅 Certification Requirement  
+✔️ Completing this case study + the quiz = eligibility for the **Six Sigma White Belt Certificate by Discover Talent Presents**.  
+
+
+
