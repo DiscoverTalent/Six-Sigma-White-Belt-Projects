@@ -1,0 +1,58 @@
+# 📘 Case Study 2 – Library Late Return Problem  
+
+## Background  
+At the college library, students often return books **after the due date**. On average, around **40% of books are returned late**. Because of this, other students cannot access important books on time, and the library staff spends extra effort sending reminders and charging fines.  
+
+This causes:  
+- Students missing study materials  
+- Extra workload for library staff  
+- Negative student feedback about the library  
+
+---
+
+## 📝 Your Task (Use DMAIC)  
+
+1. **Define**  
+   - What exactly is the problem? Who is affected?  
+
+2. **Measure**  
+   - What data would you collect?  
+     *(Example: % of books returned late, average delay in days, number of reminder notices sent.)*  
+
+3. **Analyze**  
+   - Why do you think students return books late?  
+     *(Give at least 2–3 reasons, e.g., students forget, due dates not visible, timings clash with classes.)*  
+
+4. **Improve**  
+   - Suggest 2–3 practical solutions.  
+     *(Example: email/WhatsApp reminders before due date, self-renewal option online, extend library hours during exams.)*  
+
+5. **Control**  
+   - How will you make sure the improvements last?  
+     *(Example: automatic reminder system, monthly tracking by librarian.)*  
+
+---
+
+## 📂 Submission Format  
+- File type: **PDF / Word / Excel**  
+- File name format:  
+  ```
+  YourName_CaseStudy2.pdf
+  ```  
+
+---
+
+## 🚀 How to Submit  
+1. Fork this repository (top-right corner → “Fork”).  
+2. Go to this folder:  
+   ```
+   CaseStudy2/
+   ```  
+3. Upload your file → Commit changes → Create a Pull Request.  
+
+---
+
+## 🏅 Certification Requirement  
+✔ Completing **Case Study 1 and Case Study 2** + the quiz makes you eligible for the **Six Sigma White Belt Certificate by Discover Talent Presents**.  
+
+
