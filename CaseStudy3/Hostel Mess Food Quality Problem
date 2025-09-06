@@ -1,1 +1,59 @@
+# 📘 Case Study 3 – Hostel Mess Food Quality Problem  
+
+## Background  
+Students staying in the hostel often complain that the **quality of food in the mess is inconsistent**.  
+- Some days the food tastes fine, but on other days it is undercooked, oily, or served late.  
+- Around **60% of students have given negative feedback** in surveys.  
+
+This leads to:  
+- Students skipping meals or ordering outside food  
+- Wastage of mess resources  
+- Complaints to hostel management  
+
+---
+
+## 📝 Your Task (Use DMAIC)  
+
+1. **Define**  
+   - What is the core problem in your own words? Who is affected?  
+
+2. **Measure**  
+   - What data would you collect?  
+     *(Example: number of complaints, food wastage quantity, % of students giving negative feedback.)*  
+
+3. **Analyze**  
+   - Why do you think the food quality is inconsistent?  
+     *(Give 2–3 reasons, e.g., lack of standard recipe, untrained staff, poor quality raw materials.)*  
+
+4. **Improve**  
+   - Suggest 2–3 solutions to improve food quality.  
+     *(Example: fixed recipe cards, regular training for cooks, supplier quality checks, feedback app for students.)*  
+
+5. **Control**  
+   - How will you ensure the quality remains consistent?  
+     *(Example: monthly review of feedback, surprise food quality audits, long-term supplier contracts.)*  
+
+---
+
+## 📂 Submission Format  
+- File type: **PDF / Word / Excel**  
+- File name format:  
+  ```
+  YourName_CaseStudy3.pdf
+  ```  
+
+---
+
+## 🚀 How to Submit  
+1. Fork this repository (top-right corner → “Fork”).  
+2. Go to this folder:  
+   ```
+   CaseStudy3/
+   ```  
+3. Upload your file → Commit changes → Create a Pull Request.  
+
+---
+
+## 🏅 Certification Requirement  
+✔ Completing **Case Study 1, Case Study 2, and Case Study 3** + the quiz makes you eligible for the **Six Sigma White Belt Certificate by Discover Talent Presents**.  
 
